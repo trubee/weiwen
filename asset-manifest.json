@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weiwen/static/css/main.0f692900.chunk.css",
+    "main.js": "/weiwen/static/js/main.7e61399d.chunk.js",
+    "main.js.map": "/weiwen/static/js/main.7e61399d.chunk.js.map",
+    "runtime~main.js": "/weiwen/static/js/runtime~main.0c67fa68.js",
+    "runtime~main.js.map": "/weiwen/static/js/runtime~main.0c67fa68.js.map",
+    "static/css/2.ec129f17.chunk.css": "/weiwen/static/css/2.ec129f17.chunk.css",
+    "static/js/2.0ba738ab.chunk.js": "/weiwen/static/js/2.0ba738ab.chunk.js",
+    "static/js/2.0ba738ab.chunk.js.map": "/weiwen/static/js/2.0ba738ab.chunk.js.map",
+    "index.html": "/weiwen/index.html",
+    "precache-manifest.661db9dc74dec2be7d2d718d8544e405.js": "/weiwen/precache-manifest.661db9dc74dec2be7d2d718d8544e405.js",
+    "service-worker.js": "/weiwen/service-worker.js",
+    "static/css/2.ec129f17.chunk.css.map": "/weiwen/static/css/2.ec129f17.chunk.css.map",
+    "static/css/main.0f692900.chunk.css.map": "/weiwen/static/css/main.0f692900.chunk.css.map"
+  }
+}
